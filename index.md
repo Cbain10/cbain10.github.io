@@ -10,13 +10,10 @@
 
 ```
 
-![Project1](https://miro.medium.com/max/1000/0*kBHpKva09AsGj7RQ)
-
-
 ### Project 1
-
+![fourcorners](/Users/christianbain/Desktop/6.6fourcorners)
 
 ### Project 2
 
 
-## Project 3
+### Project 3
