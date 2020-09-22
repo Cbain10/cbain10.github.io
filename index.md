@@ -1,7 +1,8 @@
-# Lesson 6.5 - Event Listeners
+# Lesson 7 - Event Listeners
 
 [Repl.it](https://repl.it/~)
 
+Important Points:
 ```markdown
 
 ` screen = turtle.Screen() `      # create a screen object
@@ -10,11 +11,10 @@
 
 ```
 
-### Project 1
-![fourcorners](6.6fourcorners.png)
-
-### Project 2
+### Project 1 - Free Draw
 ![eventListeners](eventlisteners.gif)
 
+### Project 2 - Four Corners
 
-### Project 3
+
+### Project 3 - Crazy Art!
