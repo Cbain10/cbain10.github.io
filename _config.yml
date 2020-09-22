@@ -3,10 +3,9 @@ theme: jekyll-theme-hacker
 title: PHYNZ Coding
 description: Coding Lessons in Python and C++
 
-Header 1: BACON TOWN
+# This should come out as a header
 
--Python
--C++
--Java
 
-this is 'cout << "I like soccer" << endl;' in code stuff
+-List
+
+1. Also list
