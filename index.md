@@ -1,7 +1,7 @@
 # Welcome Bacon Town
 
-''' markdown
+```markdown
 
 this is something new
 
-'''
+```
