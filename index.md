@@ -23,3 +23,6 @@ Important Points:
 
 
 ### Project 3 - Crazy Art!
+```Create 2-3 functions that draw shapes with random colors and random sizes. Connect those functions to keys. When we press those keys really quickly, it turns into crazy art!```
+
+![crazyArt](crazydesign.gif)
