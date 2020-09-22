@@ -13,6 +13,7 @@ Important Points:
 
 ### Project 1 - Free Draw
 ```Use Event Listeners to make the turtle turn with the left and right arrow keys, and then forward and backward with the up and down keys!```
+
 ![eventListeners](eventlisteners.gif)
 
 ### Project 2 - Four Corners
