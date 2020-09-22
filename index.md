@@ -17,6 +17,9 @@ Important Points:
 ![eventListeners](eventlisteners.gif)
 
 ### Project 2 - Four Corners
+```Have the turtle jump around with the arrow keys and draw a shape wherever you are!```
+
+![fourCorners](fourcorners.gif)
 
 
 ### Project 3 - Crazy Art!
