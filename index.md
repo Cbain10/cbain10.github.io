@@ -11,7 +11,7 @@
 ```
 
 ### Project 1
-![fourcorners](/Users/christianbain/Desktop/6.6fourcorners)
+![fourcorners](6.6fourcorners.png)
 
 ### Project 2
 
