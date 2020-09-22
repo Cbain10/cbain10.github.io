@@ -14,6 +14,7 @@
 ![fourcorners](6.6fourcorners.png)
 
 ### Project 2
+![eventListeners](eventlisteners.gif)
 
 
 ### Project 3
