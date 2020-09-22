@@ -19,7 +19,7 @@ Important Points:
 ### Project 2 - Four Corners
 ```Have the turtle jump around with the arrow keys and draw a shape wherever you are!```
 
-![fourCorners](fourcorners.gif)
+![fourCorners](fourconers.gif)
 
 
 ### Project 3 - Crazy Art!
