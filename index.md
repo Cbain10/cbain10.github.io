@@ -18,7 +18,7 @@ Important Points:
 
 
 ### Project 2 - Which Way?!
-```Have the computer generate a random number. Using conditionals, have the turtle do different things based off the random number! If it is less than 11, have it go forward, if it is less than 21 and greater than 11, have it turn right 45 degrees, then go forward. Otherwise, have the turtle turn right 90 degrees and go ward! Have the turtle change colors for each case!```
+```Have the computer generate a random number. Using conditionals, have the turtle do different things based off the random number! If it is less than 11, have it go forward, if it is less than 21 and greater than 11, have it turn right 45 degrees, then go forward. Otherwise, have the turtle turn right 90 degrees and go forward! Have the turtle change colors for each case!```
 
 ![crazyArt](whichway.gif)
 
