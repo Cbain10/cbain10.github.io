@@ -1,18 +1,18 @@
-# Lesson 7 - Event Listeners
+# Lesson 8 - Conditionals
 
 [Repl.it](https://repl.it/~)
 
 Important Points:
 ```markdown
 
-` screen = turtle.Screen() `      # create a screen object
-` screen.onkey(nameOfYourFunction, "key") `   # link the function to the keys
-` screen.listen() `   # the screen starts "listening" for your keyboard input
+` if num > 10: `                      # basic if-statement
+` elif (insert another condition): `  # else-if-statement
+` else: `                             # else statement
 
 ```
 
-### Project 1 - Free Draw
-```Use Event Listeners to make the turtle turn with the left and right arrow keys, and then forward and backward with the up and down keys!```
+### Project 1 - If Shapes
+```Generate a random number! If the random number is greater than 10, draw an octagon. If not, draw a hexagon!```
 
 ![eventListeners](eventlisteners.gif)
 
