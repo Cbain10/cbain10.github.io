@@ -16,13 +16,15 @@ Important Points:
 
 ![eventListeners](eventlisteners.gif)
 
-### Project 2 - Four Corners
-```Have the turtle jump around with the arrow keys and draw a shape wherever you are!```
+
+### Project 2 - Which Way?!
+```Have the computer generate a random number. Using conditionals, have the turtle do different things based off the random number! If it is less than 11, have it go forward, if it is less than 21 and greater than 11, have it turn right 45 degrees, then go forward. Otherwise, have the turtle turn right 90 degrees and go ward! Have the turtle change colors for each case!```
+
+![crazyArt](crazydesign.gif)
+
+### Project 3 - Rebounder!
+```Draw a box for the ball to bouce off! Use a while True loop to get the ball to keep moving. Use conditionals to have the ball bounce back before leaving the box!```
 
 ![fourCorners](fourconers.gif)
 
 
-### Project 3 - Crazy Art!
-```Create 2-3 functions that draw shapes with random colors and random sizes. Connect those functions to keys. When we press those keys really quickly, it turns into crazy art!```
-
-![crazyArt](crazydesign.gif)
