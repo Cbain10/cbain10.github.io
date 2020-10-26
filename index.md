@@ -9,6 +9,10 @@ Important Points:
 ` elif (insert another condition): `  # else-if-statement
 ` else: `                             # else statement
 
+` while True: `                       # begin a while-loop
+`   if a > b: `                       # random condition to check
+`     break   `                       # jump out of a while-loop
+
 ```
 
 ### Project 1 - If Shapes
@@ -28,7 +32,7 @@ Important Points:
 ![fourCorners](bouncyball.gif)
 
 ### Project 4 - RACE!!!
-```Draw two lines, then creat two more turtle objects. Place them side-by-side on the left-most line. Using loops and random numbers, have them go forward a small amount of random steps (like between 3-5), but since you are using a loop, have them do that many times (like 100!) Use conditionals to see which turtle went the farthest and then have the winner write "WINNER!" on the screen!```
+```Draw two lines, then create two more turtle objects. Place them side-by-side on the left-most line. Using loops and random numbers, have them go forward a small amount of random steps (like between 3-5), but since you are using a loop, have them do that many times (like 100!) Use conditionals to see which turtle makes it to the finish line first and then have the winner write "WINNER!" on the screen!```
 
 ![race](race.gif)
 
