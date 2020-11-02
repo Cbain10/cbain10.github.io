@@ -13,6 +13,9 @@ Important Points:
 `   if a > b: `                       # random condition to check
 `     break   `                       # jump out of a while-loop
 
+` myList = [] `   # create an empty list
+` myList.append(item) ` # add an item to the end of the list
+
 ```
 
 ### Project 1 - If Shapes
