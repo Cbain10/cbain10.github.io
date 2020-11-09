@@ -16,6 +16,14 @@ Important Points:
 ` myList = [] `   # create an empty list
 ` myList.append(item) ` # add an item to the end of the list
 
+` for i in range(10): `     # fast way of adding items to a list
+  ` t = turtle.Turtle() `
+  ` t.shape('circle') `
+  ` t.speed(5) `
+
+` for (variableName) in myList: `     # iterate through our list
+  ` variableName.doSomething() `
+  
 ```
 
 ### Project 1 - If Shapes
