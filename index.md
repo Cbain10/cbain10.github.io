@@ -15,6 +15,9 @@ Important Points:
 ` elif (insert another condition): `  # else-if-statement
 ` else: `                             # else statement
 
+` t.xcor() `    # returns x-coordinate of the turtle
+` t.ycor() `    # returns y-coordinate of the turtle
+
 ` while True: `                       # begin a while-loop
 `   if a > b: `                       # random condition to check
 `     break   `                       # jump out of a while-loop
