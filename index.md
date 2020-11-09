@@ -44,6 +44,7 @@ This is your second-to-last project. You will be creating a real video game! Her
 - Try to get as many points as you can! 
 - BONUS: Add another level so when you get 5 points, the speed of the game goes up and there are more balls to eat!
 
+![spaceEater](space_eater.gif)
 
 
 ### MASTER PROJECT
