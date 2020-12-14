@@ -26,4 +26,4 @@ Have the console print "Hello world!"
 ### Project 3 - Table Results
 
 Print the following table to the console!
-
+[Premier League Table](pls.png)
