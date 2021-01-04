@@ -27,3 +27,9 @@ Have the console print "Hello world!"
 
 Print the following table to the console!
 [Premier League Table](pls.png)
+
+### Project 4 - Basic Calculator!
+Prompt the user to enter two numbers, then print the sum, difference, product, and dividend of those two numbers!
+
+## Project 5 - More Calculations!
+Prompt the user for one more number. Print to the console the number doubled, squared, the square root, and the remainder after dividing by two!
