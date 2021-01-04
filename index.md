@@ -2,11 +2,18 @@
 
 [Repl.it](https://repl.it/~)
 
-Important Points:
+Key Terms:
+```markdown
+variable - a piece of data/information for us to use in our code
+integer - a number variable (ex: 8)
+string - a word, sentence, or a collection of characters in a variable (ex: "i like turtles")
+```
+
+Important Code:
 ```markdown
 
 `print("Hello world!") `        # print to the console
-`myVar = input("Enter your input: ") `      #Prompt user for input, save as variable
+`myVar = input("Enter your input: ") `      # prompt user for input, save as variable
 `print("This is my variable: ", myVar) `    # print words and variable
 `int(myVar) `              # cast a variable to an integer (number)
 `str(myVar) `              # cast a variable to a string (word, sentence, or a collection of characters)
