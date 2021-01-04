@@ -8,6 +8,8 @@ Important Points:
 `print("Hello world!") `        # print to the console
 `myVar = input("Enter your input: ") `      #Prompt user for input, save as variable
 `print("This is my variable: ", myVar) `    # print words and variable
+`int(myVar) `              # cast a variable to an integer (number)
+`str(myVar) `              # cast a variable to a string (word, sentence, or a collection of characters)
 
 ```
 
