@@ -45,3 +45,13 @@ Prompt the user for one more number. Print to the console the number doubled, sq
 
 ### Project 6 - Remainders pt. 2
 Create a program that works as a division calculator. Prompt the user for a number to divide, a number to divide by, and then print the result to the console. Output should be something like this: "3 / 2 = 1R1" or "22 / 4 = 5R2" 
+
+### Project 7 - Fill a pool: final project
+You and your friend just started a new company. You build pools and fill them with water for customers. Your customers will tell you how long, wide, and deep the pool is going to be. You then need to calculate the amount of water that you will need to fill it. We will be working in feet and gallons!
+Here are some basic steps to the problem.
+- prompt the user for the length of the pool in feet
+- prompt the user for the width of the pool in feet
+- prompt the user for the depth of the pool in feet
+- calculate the amount of water needed (remember: volume = length * width * depth) in cubic feet
+- calculate the amounf of gallons (gallons = volume(in cubic feet) * 7.48052
+- print both amounts to the console!
