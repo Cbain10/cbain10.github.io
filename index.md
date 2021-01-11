@@ -20,7 +20,7 @@ Important Code:
 
 ```
 
-### Project 1 - Hellow World!
+### Project 1 - Hello World!
 
 Have the console print "Hello world!"
 
@@ -42,3 +42,6 @@ Prompt the user to enter two numbers, then print the sum, difference, product, a
 
 ### Project 5 - More Calculations!
 Prompt the user for one more number. Print to the console the number doubled, squared, the square root, and the remainder after dividing by two!
+
+### Project 6 - Remainders pt. 2
+Create a program that works as a division calculator. Prompt the user for a number to divide, a number to divide by, and then print the result to the console. Output should be something like this: "3 / 2 = 1R1" or "22 / 4 = 5R2" 
