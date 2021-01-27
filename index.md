@@ -28,14 +28,17 @@ Important Code:
 ### Project 1 - Names!
   - Have the user enter their first and last names (hint: use two lines of code to do this, not just one)
   - Print to the console "Welcome " followed by their first and last names capitalized!
+  ![Names](names.gif)
   
   
 ### Project 2 - Vertical 4-letter word
   - Have the user enter a 4-letter word
   - Print the letters to the console with one letter on each line
+  ![Legs](legs.gif)
   
   
 ### Project 3 - Vertical strings of any size!
   - Prompt the user to enter any sentence or word.
   - Print the string with one character on each line
   - Hint: Use a for-loop!
+  ![Vertical](vertical.gif)
