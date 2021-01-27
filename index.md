@@ -41,4 +41,5 @@ Important Code:
   - Prompt the user to enter any sentence or word.
   - Print the string with one character on each line
   - Hint: Use a for-loop!
+  
   ![Vertical](vertical.gif)
