@@ -7,6 +7,7 @@ Key Terms:
 variable - a piece of data/information for us to use in our code
 integer - a number variable (ex: 8)
 string - a word, sentence, or a collection of characters in a variable (ex: "i like turtles")
+% - modulo - gives the remainder --> ex: 5 % 2 = 1
 ```
 
 Important Code:
@@ -17,41 +18,24 @@ Important Code:
 `print("This is my variable: ", myVar) `    # print words and variable
 `int(myVar) `              # cast a variable to an integer (number)
 `str(myVar) `              # cast a variable to a string (word, sentence, or a collection of characters)
+`myVar[0] `                # access the first letter in the string
+`myVar[-1] `               # access the last character in the string
+`len(myVar `               # returns the size of the string (number of characters)
+`myVar.capitalize() `      # capitalizes the first letter in the string
 
 ```
 
-### Project 1 - Hello World!
-
-Have the console print "Hello world!"
-
-
-
-### Project 2 - Echo 
-
-- Prompt the user to enter a word to echo.
-- Save as a variable
-- Echo the word back to them!
-
-### Project 3 - Table Results
-
-Print the following table to the console!
-[Premier League Table](pls.png)
-
-### Project 4 - Basic Calculator!
-Prompt the user to enter two numbers, then print the sum, difference, product, and dividend of those two numbers!
-
-### Project 5 - More Calculations!
-Prompt the user for one more number. Print to the console the number doubled, squared, the square root, and the remainder after dividing by two!
-
-### Project 6 - Remainders pt. 2
-Create a program that works as a division calculator. Prompt the user for a number to divide, a number to divide by, and then print the result to the console. Output should be something like this: "3 / 2 = 1R1" or "22 / 4 = 5R2" 
-
-### Project 7 - Fill a pool: final project
-You and your friend just started a new company. You build pools and fill them with water for customers. Your customers will tell you how long, wide, and deep the pool is going to be. You then need to calculate the amount of water that you will need to fill it. We will be working in feet and gallons!
-Here are some basic steps to the problem.
-- prompt the user for the length of the pool in feet
-- prompt the user for the width of the pool in feet
-- prompt the user for the depth of the pool in feet
-- calculate the amount of water needed (remember: volume = length * width * depth) in cubic feet
-- calculate the amounf of gallons (gallons = volume(in cubic feet) * 7.48052
-- print both amounts to the console!
+### Project 1 - Names!
+  - Have the user enter their first and last names (hint: use two lines of code to do this, not just one)
+  - Print to the console "Welcome " followed by their first and last names capitalized!
+  
+  
+### Project 2 - Vertical 4-letter word
+  - Have the user enter a 4-letter word
+  - Print the letters to the console with one letter on each line
+  
+  
+### Project 3 - Vertical strings of any size!
+  - Prompt the user to enter any sentence or word.
+  - Print the string with one character on each line
+  - Hint: Use a for-loop!
