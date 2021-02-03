@@ -1,4 +1,4 @@
-# Lesson 1 - Formatting and Input!
+# Lesson 1 - Branches
 
 [Repl.it](https://repl.it/~)
 
@@ -13,33 +13,22 @@ string - a word, sentence, or a collection of characters in a variable (ex: "i l
 Important Code:
 ```markdown
 
-`print("Hello world!") `        # print to the console
 `myVar = input("Enter your input: ") `      # prompt user for input, save as variable
-`print("This is my variable: ", myVar) `    # print words and variable
-`int(myVar) `              # cast a variable to an integer (number)
 `str(myVar) `              # cast a variable to a string (word, sentence, or a collection of characters)
 `myVar[0] `                # access the first letter in the string
-`myVar[-1] `               # access the last character in the string
-`len(myVar `               # returns the size of the string (number of characters)
-`myVar.capitalize() `      # capitalizes the first letter in the string
+`len(myVar) `               # returns the size of the string (number of characters)
 
 ```
 
-### Project 1 - Names!
-  - Have the user enter their first and last names (hint: use two lines of code to do this, not just one)
-  - Print to the console "Welcome " followed by their first and last names capitalized!
-  ![Names](names.gif)
+### Project 1 - Numbers 1-10
+  - Prompt the user for a number between 1 and 10
+  - Use if and else statements to determine whether the number is even or odd
+  - Use if and else statements to determine whether the number is greater than 5
+  - Print the results to the console
   
+ ### Project 2 - Number Guesser
+  - Prompt the user to enter a number that is divisible by 2
+  - Then prompt the user to enter a number that is divisible by 4
+  - Use conditionals to determine whether both numbers are correct, one is correct, or neither are correct
+  - Print the results to the console
   
-### Project 2 - Vertical 4-letter word
-  - Have the user enter a 4-letter word
-  - Print the letters to the console with one letter on each line
-  ![Legs](legs.gif)
-  
-  
-### Project 3 - Vertical strings of any size!
-  - Prompt the user to enter any sentence or word.
-  - Print the string with one character on each line
-  - Hint: Use a for-loop!
-  
-  ![Vertical](vertical.gif)
