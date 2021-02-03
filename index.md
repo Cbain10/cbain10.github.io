@@ -1,4 +1,4 @@
-# Lesson 1 - Branches
+# Lesson 3 - Branches
 
 [Repl.it](https://repl.it/~)
 
