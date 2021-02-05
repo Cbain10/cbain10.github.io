@@ -25,10 +25,11 @@ Important Code:
   - Use if and else statements to determine whether the number is even or odd
   - Use if and else statements to determine whether the number is greater than 5
   - Print the results to the console
+  ![oddEven](oddEven.gif)
   
- ### Project 2 - Number Guesser
+### Project 2 - Number Guesser
   - Prompt the user to enter a number that is divisible by 2
   - Then prompt the user to enter a number that is divisible by 4
   - Use conditionals to determine whether both numbers are correct, one is correct, or neither are correct
   - Print the results to the console
-  
+  ![numGuess](numGuess.gif)
