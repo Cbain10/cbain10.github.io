@@ -34,4 +34,13 @@ Important Code:
   - Use conditionals to determine whether both numbers are correct, one is correct, or neither are correct
   - Print the results to the console
   
-  ![numGuess](numGuess.gif)
+  ![numGuess](mathGuesser.gif)
+
+### Project 3 - Ice Cream Specials
+  There is a special sale for ice cream today! If only it were actually hot to go out and buy some... Oh well! Pretend you are in Africa! There are different deals for different ages!
+  - Ask the user to enter their age!
+  - Split the ages into 3 different categories (ex: ages 0-18, 19-60, 60+
+  - One of those categories must have a follow up question (ex: "Do you have kids?")
+  - Use if-statements (conditionals) to print out their special deal for the day!
+  
+  ![iceCream](iceCream.gif)
