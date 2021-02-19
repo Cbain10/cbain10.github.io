@@ -26,7 +26,6 @@ Important Code:
   - Use if and else statements to determine whether the number is greater than 5
   - Print the results to the console
   
-  ![oddEven](oddEven.gif)
   
 ### Project 2 - Number Guesser
   - Prompt the user to enter a number that is divisible by 2
@@ -44,3 +43,17 @@ Important Code:
   - Use if-statements (conditionals) to print out their special deal for the day!
   
   ![iceCream](iceCream.gif)
+  
+  
+### Final Project - Fortune Teller
+  For this project, you are going to create your own fortune teller program! 
+  - First, tell your user what this program does and what to expect
+  - Prompt them to enter a number (preferrably 1, 2, or 3)
+  - Then ask them to enter another number (again, maybe 1 , 2, or 3)
+  - Come up with 9 different fortunes (hopefully they are nice fortunes, but they don't have to be!)
+  - Why 9? If we have them pick 1 of 3 numbers twice, how many total combinations are there? What if we had 4 options?
+  - Now, using your newly gained knowledge of conditionals and if-statements, have the program print their specific fortune to the console
+  - If they do not enter the correct number, your program should not print a fortune, but tell the user that their input was incorrect.
+  - Make it fun!
+
+  ![fortuneTeller](fortuneTeller.gif)
