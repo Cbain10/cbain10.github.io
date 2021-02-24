@@ -33,3 +33,24 @@ example: `while (myVar > 0): `
   - Make it fun!
 
   ![fortuneTeller](fortuneTeller.gif)
+  
+  
+  
+   objective: write a while loop that iterates while userNum is greater than or equal to zer0
+
+userNum = 100
+iterations = 0;
+
+ add your code in the line below
+while ():
+  print(userNum)
+  userNum -= 30
+  ++iterations
+
+
+ now write your own while loop that prints numCookies doubled until reaching 100
+
+ uncomment the line below
+ numCookies = int(input("How many cookies? "))
+
+
