@@ -1,4 +1,4 @@
-# Lesson 3 - Branches
+# Lesson 4 - Loops (While and For)
 
 [Repl.it](https://repl.it/~)
 
@@ -21,36 +21,16 @@ example: `while (myVar > 0): `
 
 ```
   
-### Final Project - Fortune Teller
-  For this project, you are going to create your own fortune teller program! 
-  - First, tell your user what this program does and what to expect
-  - Prompt them to enter a number (preferrably 1, 2, or 3)
-  - Then ask them to enter another number (again, maybe 1 , 2, or 3)
-  - Come up with 9 different fortunes (hopefully they are nice fortunes, but they don't have to be!)
-  - Why 9? If we have them pick 1 of 3 numbers twice, how many total combinations are there? What if we had 4 options?
-  - Now, using your newly gained knowledge of conditionals and if-statements, have the program print their specific fortune to the console
-  - If they do not enter the correct number, your program should not print a fortune, but tell the user that their input was incorrect.
-  - Make it fun!
-
-  ![fortuneTeller](fortuneTeller.gif)
-  
-  
-  
-   objective: write a while loop that iterates while userNum is greater than or equal to zer0
-
-userNum = 100
-iterations = 0;
-
- add your code in the line below
-while ():
-  print(userNum)
-  userNum -= 30
-  ++iterations
-
-
- now write your own while loop that prints numCookies doubled until reaching 100
-
- uncomment the line below
- numCookies = int(input("How many cookies? "))
+### Project 1 - While loop game
+- You are going to build a math game
+- Start by asking the user if they are ready to begin
+- If they are ready, start the game. If they decide not to play, that should be the end of your program)
+- Have the user enter any number
+- Tell them to perform some calculations on that number (example: multiply by 2, add 3, subtract 20, times 3...)
+- Ask them to enter their final answer
+- Tell the user whether or not their answer was correct.
+- Ask them if they would like to play again
+(Hint: This program will use a while-loop for the game portion, have the user enter "y" or "n" when asked if they want to play again, keep playing as long as their answer is 'y')
+You got this!!!
 
 
