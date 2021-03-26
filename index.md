@@ -34,3 +34,14 @@ example: `while (myVar > 0): `
 You got this!!!
 
 
+### REVIEW QUESTIONS
+Answer each question in your own words and give at least 1 code example
+- How would we print "Hello world!" to the console?
+- What is a variable? What should we consider when choosing a name?
+- What are the different kinds of variables?
+- How could we print "Hello world!" to the console using a variable?
+- How do we ask the user to enter something? How do we save their input in our code?
+- What is an if-statement? What are the other kinds of statements?
+- What is the difference between a for-loop and a while loop?
+- Give an example of when we would use a while loop over a for-loop
+
